@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\bin\Debug\net8.0\Ejercicios_Programacion_David.exe
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\bin\Debug\net8.0\Ejercicios_Programacion_David.deps.json
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\bin\Debug\net8.0\Ejercicios_Programacion_David.runtimeconfig.json
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\bin\Debug\net8.0\Ejercicios_Programacion_David.dll
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\bin\Debug\net8.0\Ejercicios_Programacion_David.pdb
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.AssemblyInfo.cs
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.dll
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\refint\Ejercicios_Programacion_David.dll
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.pdb
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\Ejercicios_Programacion_David.genruntimeconfig.cache
+C:\Users\Leo\Desktop\vscode\Ejercicios_Programacion_David\obj\Debug\net8.0\ref\Ejercicios_Programacion_David.dll
